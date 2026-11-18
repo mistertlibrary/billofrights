@@ -1,0 +1,66 @@
+{
+  "lyceum": 1,
+  "title": "Rights on the Docket: The Bill of Rights Today",
+  "description": "Research resources for a Bill of Rights current-issue project: library databases, the Constitution, competing perspectives, decision-makers, and citation help.",
+  "url": "https://mistertlibrary.github.io/billofrights/",
+  "series": "",
+  "course": "US History I",
+  "subjects": [
+    "Social Studies",
+    "Complicated Issues"
+  ],
+  "sections": [
+    {
+      "title": "Choose an Issue",
+      "anchor": "#issue",
+      "keywords": [
+        "Newspaper Source Plus",
+        "TOPICsearch",
+        "The New York Times"
+      ]
+    },
+    {
+      "title": "Read Your Amendment",
+      "anchor": "#amendment",
+      "keywords": [
+        "Interactive Constitution",
+        "Constitution Annotated",
+        "American Government",
+        "The Bill of Rights: A Transcription",
+        "New Jersey’s Bill of Rights",
+        "Gale in Context: US History"
+      ]
+    },
+    {
+      "title": "Find Perspectives",
+      "anchor": "#perspectives",
+      "keywords": [
+        "Points of View Ultimate",
+        "Issues & Controversies",
+        "Gale in Context: Opposing Viewpoints",
+        "Oyez",
+        "Annenberg Classroom",
+        "ProCon",
+        "The Heritage Guide to the Constitution",
+        "Freedom Forum"
+      ]
+    },
+    {
+      "title": "Find Your Decision-Maker",
+      "anchor": "#decides",
+      "keywords": [
+        "Find Your Representative",
+        "New Jersey Legislature",
+        "Regulations.gov"
+      ]
+    },
+    {
+      "title": "Cite It",
+      "anchor": "#cite",
+      "keywords": [
+        "NoodleTools",
+        "Citation Station: MLA"
+      ]
+    }
+  ]
+}
